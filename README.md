@@ -46,6 +46,3 @@ We express our sincere gratitude to the Almighty God, our supervisor Dr. Eric Dr
 ## Contact Information
 Department of Biomedical Engineering  
 All Nations University, Koforidua, Ghana
-
-## License
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. All content remains the intellectual property of the authors and All Nations University.
